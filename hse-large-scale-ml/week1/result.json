@@ -1,0 +1,42 @@
+[
+  {
+    "image": "https://ctanjahp.labs.coursera.org/data/imgs/9.jpg",
+    "choice": "Hot dog"
+  },
+  {
+    "image": "https://ctanjahp.labs.coursera.org/data/imgs/1.jpg",
+    "choice": "Hot dog"
+  },
+  {
+    "image": "https://ctanjahp.labs.coursera.org/data/imgs/5.jpg",
+    "choice": "Hot dog"
+  },
+  {
+    "image": "https://ctanjahp.labs.coursera.org/data/imgs/3.jpg",
+    "choice": "Not hot dog"
+  },
+  {
+    "image": "https://ctanjahp.labs.coursera.org/data/imgs/7.jpg",
+    "choice": "Not hot dog"
+  },
+  {
+    "image": "https://ctanjahp.labs.coursera.org/data/imgs/10.jpg",
+    "choice": "Hot dog"
+  },
+  {
+    "image": "https://ctanjahp.labs.coursera.org/data/imgs/2.jpg",
+    "choice": "Not hot dog"
+  },
+  {
+    "image": "https://ctanjahp.labs.coursera.org/data/imgs/6.jpg",
+    "choice": "Not hot dog"
+  },
+  {
+    "image": "https://ctanjahp.labs.coursera.org/data/imgs/4.jpg",
+    "choice": "Hot dog"
+  },
+  {
+    "image": "https://ctanjahp.labs.coursera.org/data/imgs/8.jpg",
+    "choice": "Not hot dog"
+  }
+]
